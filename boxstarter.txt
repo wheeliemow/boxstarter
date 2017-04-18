@@ -1,27 +1,43 @@
+#must us this with IE or it will not work. Copy the url into IE and run the thing on a new machine. 
+
+http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/wheeliemow/boxstarter/master/boxstarter.txt
 
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
 
 
     # Screenshot tool
-    #cinstm snagit
+    cinstm snagit
 
     # It's nice to be able to browse NuGet files if necessary
     #cinstm NugetPackageExplorer
 
     # If we're doing web development, we need a few browsers
-    #cinstm GoogleChrome
-    #cinstm Firefox
-    #cinstm Opera
+    cinstm GoogleChrome
+    cinstm Firefox
+    cinstm Opera
 
     
     # Gotta have Fiddler
     #cinstm fiddler4
 
     # Editors and merge tools
-    #cinstm notepadplusplus.install
+    cinstm notepadplusplus.install
     cinstm wnmerge
       
     # Without Git, we might as well go home.
     #cinstm poshgit
     
+    # zip file extraction
+    cinstm 7zip.install
+    
+    # pdf reader
+    cinstm foxitreader
+    
+    #source control 
+    cinstm tortoisegit
+    
+    #image manipulation
+    cinstm paint.net
+    
+    cinstm curl
     
