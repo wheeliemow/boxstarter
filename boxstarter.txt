@@ -1,1 +1,27 @@
 
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+
+
+    # Screenshot tool
+    cinstm snagit
+
+    # It's nice to be able to browse NuGet files if necessary
+    cinstm NugetPackageExplorer
+
+    # If we're doing web development, we need a few browsers
+    cinstm GoogleChrome
+    cinstm Firefox
+    cinstm Opera
+
+    
+    # Gotta have Fiddler
+    cinstm fiddler4
+
+    # Editors and merge tools
+    cinstm notepadplusplus.install
+    cinstm wnmerge
+      
+    # Without Git, we might as well go home.
+    cinstm poshgit
+    
+    
