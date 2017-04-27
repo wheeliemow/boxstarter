@@ -25,3 +25,5 @@
     cinst malwarebytes
     
     
+    #keep the passwords safe
+   cinst keepass.install
