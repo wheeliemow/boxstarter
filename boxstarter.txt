@@ -23,7 +23,7 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
     cinst wnmerge
       
     # Without Git, we might as well go home.
-    #cinst poshgit
+    #cinst git.install
     
     # zip file extraction
     cinst 7zip.install
