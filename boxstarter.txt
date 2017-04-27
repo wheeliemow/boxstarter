@@ -23,7 +23,8 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
     cinst wnmerge
       
     # Without Git, we might as well go home.
-    #cinst git.install
+    cinst git.install
+    cinst tortoisegit
     
     # zip file extraction
     cinst 7zip.install
@@ -35,14 +36,11 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
     # pdf reader
     cinst foxitreader
     
-    #source control 
-    cinst tortoisegit
-    
+      
     #image manipulation
     cinst paint.net
     
     cinst putty.install
-    
-    
+        
     cinst curl
     
