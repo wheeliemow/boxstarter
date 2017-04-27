@@ -11,7 +11,7 @@
 
     # Editors and merge tools
     cinst notepadplusplus.install
-    cinst wnmerge
+    cinst winmerge
       
     # Without Git, we might as well go home.
     cinst git.install
