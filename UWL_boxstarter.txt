@@ -6,23 +6,24 @@
 
 
     # Screenshot tool
-    cinstm snagit
+    cinst snagit
 
 
     # Editors and merge tools
-    cinstm notepadplusplus.install
-    cinstm wnmerge
+    cinst notepadplusplus.install
+    cinst wnmerge
       
     # Without Git, we might as well go home.
-    #cinstm git.install
+    #cinst git.install
     
     # zip file extraction
-    cinstm 7zip.install
+    cinst 7zip.install
     
     #FTP client    
-    cinstm winscp.install
+    cinst winscp.install
     
     #keeping it clean
-    cinstm ccleaner
+    cinst ccleaner
+    cinst malwarebytes
     
     
