@@ -14,13 +14,11 @@
     cinst wnmerge
       
     # Without Git, we might as well go home.
-    #cinst git.install
-    
-    # zip file extraction
-    cinst 7zip.install
+    cinst git.install
     
     #FTP client    
     cinst winscp.install
+    cinst putty.install
     
     #keeping it clean
     cinst ccleaner
