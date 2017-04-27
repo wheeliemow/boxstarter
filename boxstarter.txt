@@ -2,48 +2,48 @@
 
 http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/wheeliemow/boxstarter/master/boxstarter.txt
 
-# Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
 
     # Screenshot tool
-    cinstm snagit
+    cinst snagit
 
     # It's nice to be able to browse NuGet files if necessary
-    #cinstm NugetPackageExplorer
+    #cinst NugetPackageExplorer
 
     # If we're doing web development, we need a few browsers
-    cinstm GoogleChrome
-    cinstm Firefox
-    cinstm Opera
+    cinst GoogleChrome
+    cinst Firefox
+    cinst Opera
 
     
     # Gotta have Postman
-    #cinstm postman
+    #cinst postman
 
     # Editors and merge tools
-    cinstm notepadplusplus.install
-    cinstm wnmerge
+    cinst notepadplusplus.install
+    cinst wnmerge
       
     # Without Git, we might as well go home.
-    #cinstm poshgit
+    #cinst poshgit
     
     # zip file extraction
-    cinstm 7zip.install
+    cinst 7zip.install
     
     #keeping it clean
-    cinstm malwarebytes
-    cinstm ccleaner
+    cinst malwarebytes
+    cinst ccleaner
     
     # pdf reader
-    cinstm foxitreader
+    cinst foxitreader
     
     #source control 
-    cinstm tortoisegit
+    cinst tortoisegit
     
     #image manipulation
-    cinstm paint.net
+    cinst paint.net
     
-    cinstm putty.install
+    cinst putty.install
     
     
-    cinstm curl
+    cinst curl
     
