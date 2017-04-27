@@ -4,7 +4,6 @@ http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/wheeliemo
 
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
 
-
     # Screenshot tool
     cinstm snagit
 
@@ -17,8 +16,8 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
     cinstm Opera
 
     
-    # Gotta have Fiddler
-    #cinstm fiddler4
+    # Gotta have Postman
+    #cinstm postman
 
     # Editors and merge tools
     cinstm notepadplusplus.install
@@ -30,6 +29,10 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
     # zip file extraction
     cinstm 7zip.install
     
+    #keeping it clean
+    cinstm malwarebytes
+    cinstm ccleaner
+    
     # pdf reader
     cinstm foxitreader
     
@@ -38,6 +41,8 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
     
     #image manipulation
     cinstm paint.net
+    
+    
     
     cinstm curl
     
