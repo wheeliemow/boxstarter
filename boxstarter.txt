@@ -1,6 +1,5 @@
 #must us this with IE or it will not work. Copy the url into IE and run the thing on a new machine. 
-
-http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/wheeliemow/boxstarter/master/boxstarter.txt
+# http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/wheeliemow/boxstarter/master/boxstarter.txt
 
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
 
