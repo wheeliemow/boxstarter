@@ -42,6 +42,7 @@ http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/wheeliemo
     #image manipulation
     cinstm paint.net
     
+    cinstm putty.install
     
     
     cinstm curl
